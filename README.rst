@@ -26,4 +26,6 @@ Technology list
 - maven
 
 
+changes made directly in develop
+
 
