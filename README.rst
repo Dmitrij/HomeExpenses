@@ -1,6 +1,8 @@
 Home Expenses project
 =====================
 
+make work in feature branch 001
+
 - What:
 - Why:
   - Bistraja registracija
